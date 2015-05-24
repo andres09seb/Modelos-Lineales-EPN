@@ -1,5 +1,5 @@
 # Escuela Politécnica Nacional
-## Ingeniería Estadistica
+## Ingeniería Matemática
 ### Modelos Lineales y Diseño de Experimentos
 
 En el repositorio actual se comparte el material empleado en el curso _Modelos Lineales y Diseño de Experimentos_ dictado en la Facultad de Ciencias de la Escuela Politécnica Nacional.
